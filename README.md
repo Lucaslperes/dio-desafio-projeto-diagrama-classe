@@ -1,1 +1,2 @@
-# dio-desafio-projeto-diagrama-classe
+# Desafio de projeto DIO
+Diagrama de classes do Iphone
